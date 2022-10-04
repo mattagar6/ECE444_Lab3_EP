@@ -2,6 +2,6 @@
 
 This is a modified version of the previous Assignment1 template.
 
-## Activity 1
+## Activity 2
 
 ![alt text](images/Docker_Version.png)

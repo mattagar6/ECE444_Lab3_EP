@@ -9,3 +9,8 @@ This is a modified version of the previous Assignment1 template.
 ## Activity 3
 
 ![alt text](images/ECE444_Lab3_Activity_3.png)
+
+## Activity 3
+
+![alt text](images/ECE444_Docker_Compose_Build.png)
+![alt text](images/ECE444_Lab3_Activity_4.png)
